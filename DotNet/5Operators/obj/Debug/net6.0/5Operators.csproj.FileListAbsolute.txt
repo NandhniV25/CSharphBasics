@@ -1,0 +1,15 @@
+C:\Users\nandh\source\repos\DotNet\5Operators\obj\Debug\net6.0\5Operators.csproj.AssemblyReference.cache
+C:\Users\nandh\source\repos\DotNet\5Operators\obj\Debug\net6.0\5Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nandh\source\repos\DotNet\5Operators\obj\Debug\net6.0\5Operators.AssemblyInfoInputs.cache
+C:\Users\nandh\source\repos\DotNet\5Operators\obj\Debug\net6.0\5Operators.AssemblyInfo.cs
+C:\Users\nandh\source\repos\DotNet\5Operators\obj\Debug\net6.0\5Operators.csproj.CoreCompileInputs.cache
+C:\Users\nandh\source\repos\DotNet\5Operators\bin\Debug\net6.0\5Operators.exe
+C:\Users\nandh\source\repos\DotNet\5Operators\bin\Debug\net6.0\5Operators.deps.json
+C:\Users\nandh\source\repos\DotNet\5Operators\bin\Debug\net6.0\5Operators.runtimeconfig.json
+C:\Users\nandh\source\repos\DotNet\5Operators\bin\Debug\net6.0\5Operators.dll
+C:\Users\nandh\source\repos\DotNet\5Operators\bin\Debug\net6.0\5Operators.pdb
+C:\Users\nandh\source\repos\DotNet\5Operators\obj\Debug\net6.0\5Operators.dll
+C:\Users\nandh\source\repos\DotNet\5Operators\obj\Debug\net6.0\refint\5Operators.dll
+C:\Users\nandh\source\repos\DotNet\5Operators\obj\Debug\net6.0\5Operators.pdb
+C:\Users\nandh\source\repos\DotNet\5Operators\obj\Debug\net6.0\5Operators.genruntimeconfig.cache
+C:\Users\nandh\source\repos\DotNet\5Operators\obj\Debug\net6.0\ref\5Operators.dll

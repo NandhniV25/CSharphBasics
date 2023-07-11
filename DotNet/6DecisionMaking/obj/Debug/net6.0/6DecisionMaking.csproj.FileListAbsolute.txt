@@ -1,0 +1,15 @@
+C:\Users\nandh\source\repos\DotNet\6DecisionMaking\obj\Debug\net6.0\6DecisionMaking.csproj.AssemblyReference.cache
+C:\Users\nandh\source\repos\DotNet\6DecisionMaking\obj\Debug\net6.0\6DecisionMaking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nandh\source\repos\DotNet\6DecisionMaking\obj\Debug\net6.0\6DecisionMaking.AssemblyInfoInputs.cache
+C:\Users\nandh\source\repos\DotNet\6DecisionMaking\obj\Debug\net6.0\6DecisionMaking.AssemblyInfo.cs
+C:\Users\nandh\source\repos\DotNet\6DecisionMaking\obj\Debug\net6.0\6DecisionMaking.csproj.CoreCompileInputs.cache
+C:\Users\nandh\source\repos\DotNet\6DecisionMaking\bin\Debug\net6.0\6DecisionMaking.exe
+C:\Users\nandh\source\repos\DotNet\6DecisionMaking\bin\Debug\net6.0\6DecisionMaking.deps.json
+C:\Users\nandh\source\repos\DotNet\6DecisionMaking\bin\Debug\net6.0\6DecisionMaking.runtimeconfig.json
+C:\Users\nandh\source\repos\DotNet\6DecisionMaking\bin\Debug\net6.0\6DecisionMaking.dll
+C:\Users\nandh\source\repos\DotNet\6DecisionMaking\bin\Debug\net6.0\6DecisionMaking.pdb
+C:\Users\nandh\source\repos\DotNet\6DecisionMaking\obj\Debug\net6.0\6DecisionMaking.dll
+C:\Users\nandh\source\repos\DotNet\6DecisionMaking\obj\Debug\net6.0\refint\6DecisionMaking.dll
+C:\Users\nandh\source\repos\DotNet\6DecisionMaking\obj\Debug\net6.0\6DecisionMaking.pdb
+C:\Users\nandh\source\repos\DotNet\6DecisionMaking\obj\Debug\net6.0\6DecisionMaking.genruntimeconfig.cache
+C:\Users\nandh\source\repos\DotNet\6DecisionMaking\obj\Debug\net6.0\ref\6DecisionMaking.dll

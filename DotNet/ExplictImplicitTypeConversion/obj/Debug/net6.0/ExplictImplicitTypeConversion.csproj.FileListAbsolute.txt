@@ -1,0 +1,15 @@
+C:\Users\nandh\source\repos\DotNet\ExplictImplicitTypeConversion\bin\Debug\net6.0\ExplictImplicitTypeConversion.exe
+C:\Users\nandh\source\repos\DotNet\ExplictImplicitTypeConversion\bin\Debug\net6.0\ExplictImplicitTypeConversion.deps.json
+C:\Users\nandh\source\repos\DotNet\ExplictImplicitTypeConversion\bin\Debug\net6.0\ExplictImplicitTypeConversion.runtimeconfig.json
+C:\Users\nandh\source\repos\DotNet\ExplictImplicitTypeConversion\bin\Debug\net6.0\ExplictImplicitTypeConversion.dll
+C:\Users\nandh\source\repos\DotNet\ExplictImplicitTypeConversion\bin\Debug\net6.0\ExplictImplicitTypeConversion.pdb
+C:\Users\nandh\source\repos\DotNet\ExplictImplicitTypeConversion\obj\Debug\net6.0\ExplictImplicitTypeConversion.csproj.AssemblyReference.cache
+C:\Users\nandh\source\repos\DotNet\ExplictImplicitTypeConversion\obj\Debug\net6.0\ExplictImplicitTypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nandh\source\repos\DotNet\ExplictImplicitTypeConversion\obj\Debug\net6.0\ExplictImplicitTypeConversion.AssemblyInfoInputs.cache
+C:\Users\nandh\source\repos\DotNet\ExplictImplicitTypeConversion\obj\Debug\net6.0\ExplictImplicitTypeConversion.AssemblyInfo.cs
+C:\Users\nandh\source\repos\DotNet\ExplictImplicitTypeConversion\obj\Debug\net6.0\ExplictImplicitTypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\nandh\source\repos\DotNet\ExplictImplicitTypeConversion\obj\Debug\net6.0\ExplictImplicitTypeConversion.dll
+C:\Users\nandh\source\repos\DotNet\ExplictImplicitTypeConversion\obj\Debug\net6.0\refint\ExplictImplicitTypeConversion.dll
+C:\Users\nandh\source\repos\DotNet\ExplictImplicitTypeConversion\obj\Debug\net6.0\ExplictImplicitTypeConversion.pdb
+C:\Users\nandh\source\repos\DotNet\ExplictImplicitTypeConversion\obj\Debug\net6.0\ExplictImplicitTypeConversion.genruntimeconfig.cache
+C:\Users\nandh\source\repos\DotNet\ExplictImplicitTypeConversion\obj\Debug\net6.0\ref\ExplictImplicitTypeConversion.dll

@@ -1,0 +1,15 @@
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\bin\Debug\net6.0\3stringManipulationMethodsOperations.exe
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\bin\Debug\net6.0\3stringManipulationMethodsOperations.deps.json
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\bin\Debug\net6.0\3stringManipulationMethodsOperations.runtimeconfig.json
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\bin\Debug\net6.0\3stringManipulationMethodsOperations.dll
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\bin\Debug\net6.0\3stringManipulationMethodsOperations.pdb
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\obj\Debug\net6.0\3stringManipulationMethodsOperations.csproj.AssemblyReference.cache
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\obj\Debug\net6.0\3stringManipulationMethodsOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\obj\Debug\net6.0\3stringManipulationMethodsOperations.AssemblyInfoInputs.cache
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\obj\Debug\net6.0\3stringManipulationMethodsOperations.AssemblyInfo.cs
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\obj\Debug\net6.0\3stringManipulationMethodsOperations.csproj.CoreCompileInputs.cache
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\obj\Debug\net6.0\3stringManipulationMethodsOperations.dll
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\obj\Debug\net6.0\refint\3stringManipulationMethodsOperations.dll
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\obj\Debug\net6.0\3stringManipulationMethodsOperations.pdb
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\obj\Debug\net6.0\3stringManipulationMethodsOperations.genruntimeconfig.cache
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\obj\Debug\net6.0\ref\3stringManipulationMethodsOperations.dll

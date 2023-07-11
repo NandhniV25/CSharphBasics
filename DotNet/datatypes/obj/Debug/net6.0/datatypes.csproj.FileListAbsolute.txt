@@ -1,0 +1,15 @@
+C:\Users\nandh\source\repos\DotNet\datatypes\bin\Debug\net6.0\datatypes.exe
+C:\Users\nandh\source\repos\DotNet\datatypes\bin\Debug\net6.0\datatypes.deps.json
+C:\Users\nandh\source\repos\DotNet\datatypes\bin\Debug\net6.0\datatypes.runtimeconfig.json
+C:\Users\nandh\source\repos\DotNet\datatypes\bin\Debug\net6.0\datatypes.dll
+C:\Users\nandh\source\repos\DotNet\datatypes\bin\Debug\net6.0\datatypes.pdb
+C:\Users\nandh\source\repos\DotNet\datatypes\obj\Debug\net6.0\datatypes.csproj.AssemblyReference.cache
+C:\Users\nandh\source\repos\DotNet\datatypes\obj\Debug\net6.0\datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nandh\source\repos\DotNet\datatypes\obj\Debug\net6.0\datatypes.AssemblyInfoInputs.cache
+C:\Users\nandh\source\repos\DotNet\datatypes\obj\Debug\net6.0\datatypes.AssemblyInfo.cs
+C:\Users\nandh\source\repos\DotNet\datatypes\obj\Debug\net6.0\datatypes.csproj.CoreCompileInputs.cache
+C:\Users\nandh\source\repos\DotNet\datatypes\obj\Debug\net6.0\datatypes.dll
+C:\Users\nandh\source\repos\DotNet\datatypes\obj\Debug\net6.0\refint\datatypes.dll
+C:\Users\nandh\source\repos\DotNet\datatypes\obj\Debug\net6.0\datatypes.pdb
+C:\Users\nandh\source\repos\DotNet\datatypes\obj\Debug\net6.0\datatypes.genruntimeconfig.cache
+C:\Users\nandh\source\repos\DotNet\datatypes\obj\Debug\net6.0\ref\datatypes.dll

@@ -1,0 +1,15 @@
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\obj\Debug\net6.0\stringManipulationMethodsOperations.csproj.AssemblyReference.cache
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\obj\Debug\net6.0\stringManipulationMethodsOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\obj\Debug\net6.0\stringManipulationMethodsOperations.AssemblyInfoInputs.cache
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\obj\Debug\net6.0\stringManipulationMethodsOperations.AssemblyInfo.cs
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\obj\Debug\net6.0\stringManipulationMethodsOperations.csproj.CoreCompileInputs.cache
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\bin\Debug\net6.0\stringManipulationMethodsOperations.exe
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\bin\Debug\net6.0\stringManipulationMethodsOperations.deps.json
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\bin\Debug\net6.0\stringManipulationMethodsOperations.runtimeconfig.json
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\bin\Debug\net6.0\stringManipulationMethodsOperations.dll
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\bin\Debug\net6.0\stringManipulationMethodsOperations.pdb
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\obj\Debug\net6.0\stringManipulationMethodsOperations.dll
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\obj\Debug\net6.0\refint\stringManipulationMethodsOperations.dll
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\obj\Debug\net6.0\stringManipulationMethodsOperations.pdb
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\obj\Debug\net6.0\stringManipulationMethodsOperations.genruntimeconfig.cache
+C:\Users\nandh\source\repos\DotNet\stringManipulationMethodsOperations\obj\Debug\net6.0\ref\stringManipulationMethodsOperations.dll

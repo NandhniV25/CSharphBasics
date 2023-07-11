@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "3stringManipulationMethodsOperations/1.0.0": {
+        "runtime": {
+          "3stringManipulationMethodsOperations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3stringManipulationMethodsOperations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

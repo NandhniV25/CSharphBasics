@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "4MethodFunctions/1.0.0": {
+        "dependencies": {
+          "3stringManipulationMethodsOperations": "1.0.0"
+        },
+        "runtime": {
+          "4MethodFunctions.dll": {}
+        }
+      },
+      "3stringManipulationMethodsOperations/1.0.0": {
+        "runtime": {
+          "3stringManipulationMethodsOperations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "4MethodFunctions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "3stringManipulationMethodsOperations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
