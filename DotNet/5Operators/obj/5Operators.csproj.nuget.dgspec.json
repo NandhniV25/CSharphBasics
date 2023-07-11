@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nandh\\source\\repos\\DotNet\\5Operators\\5Operators.csproj": {}
+    "C:\\Nandhni\\GitRepo\\CSharphBasics\\DotNet\\5Operators\\5Operators.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nandh\\source\\repos\\DotNet\\5Operators\\5Operators.csproj": {
+    "C:\\Nandhni\\GitRepo\\CSharphBasics\\DotNet\\5Operators\\5Operators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nandh\\source\\repos\\DotNet\\5Operators\\5Operators.csproj",
+        "projectUniqueName": "C:\\Nandhni\\GitRepo\\CSharphBasics\\DotNet\\5Operators\\5Operators.csproj",
         "projectName": "5Operators",
-        "projectPath": "C:\\Users\\nandh\\source\\repos\\DotNet\\5Operators\\5Operators.csproj",
+        "projectPath": "C:\\Nandhni\\GitRepo\\CSharphBasics\\DotNet\\5Operators\\5Operators.csproj",
         "packagesPath": "C:\\Users\\nandh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nandh\\source\\repos\\DotNet\\5Operators\\obj\\",
+        "outputPath": "C:\\Nandhni\\GitRepo\\CSharphBasics\\DotNet\\5Operators\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nandh\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nandh\\source\\repos\\DotNet\\ExplictImplicitTypeConversion\\2ExplictImplicitTypeConversion.csproj",
+      "projectUniqueName": "C:\\Nandhni\\GitRepo\\CSharphBasics\\DotNet\\ExplictImplicitTypeConversion\\2ExplictImplicitTypeConversion.csproj",
       "projectName": "2ExplictImplicitTypeConversion",
-      "projectPath": "C:\\Users\\nandh\\source\\repos\\DotNet\\ExplictImplicitTypeConversion\\2ExplictImplicitTypeConversion.csproj",
+      "projectPath": "C:\\Nandhni\\GitRepo\\CSharphBasics\\DotNet\\ExplictImplicitTypeConversion\\2ExplictImplicitTypeConversion.csproj",
       "packagesPath": "C:\\Users\\nandh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nandh\\source\\repos\\DotNet\\ExplictImplicitTypeConversion\\obj\\",
+      "outputPath": "C:\\Nandhni\\GitRepo\\CSharphBasics\\DotNet\\ExplictImplicitTypeConversion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nandh\\AppData\\Roaming\\NuGet\\NuGet.Config",

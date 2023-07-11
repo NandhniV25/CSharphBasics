@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nandh\\source\\repos\\DotNet\\stringManipulationMethodsOperations\\3stringManipulationMethodsOperations.csproj": {}
+    "C:\\Nandhni\\GitRepo\\CSharphBasics\\DotNet\\stringManipulationMethodsOperations\\3stringManipulationMethodsOperations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nandh\\source\\repos\\DotNet\\stringManipulationMethodsOperations\\3stringManipulationMethodsOperations.csproj": {
+    "C:\\Nandhni\\GitRepo\\CSharphBasics\\DotNet\\stringManipulationMethodsOperations\\3stringManipulationMethodsOperations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nandh\\source\\repos\\DotNet\\stringManipulationMethodsOperations\\3stringManipulationMethodsOperations.csproj",
+        "projectUniqueName": "C:\\Nandhni\\GitRepo\\CSharphBasics\\DotNet\\stringManipulationMethodsOperations\\3stringManipulationMethodsOperations.csproj",
         "projectName": "3stringManipulationMethodsOperations",
-        "projectPath": "C:\\Users\\nandh\\source\\repos\\DotNet\\stringManipulationMethodsOperations\\3stringManipulationMethodsOperations.csproj",
+        "projectPath": "C:\\Nandhni\\GitRepo\\CSharphBasics\\DotNet\\stringManipulationMethodsOperations\\3stringManipulationMethodsOperations.csproj",
         "packagesPath": "C:\\Users\\nandh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nandh\\source\\repos\\DotNet\\stringManipulationMethodsOperations\\obj\\",
+        "outputPath": "C:\\Nandhni\\GitRepo\\CSharphBasics\\DotNet\\stringManipulationMethodsOperations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nandh\\AppData\\Roaming\\NuGet\\NuGet.Config",

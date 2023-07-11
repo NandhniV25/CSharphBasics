@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nandh\\source\\repos\\DotNet\\MethodFunctions\\4MethodFunctions.csproj",
+      "projectUniqueName": "C:\\Nandhni\\GitRepo\\CSharphBasics\\DotNet\\MethodFunctions\\4MethodFunctions.csproj",
       "projectName": "4MethodFunctions",
-      "projectPath": "C:\\Users\\nandh\\source\\repos\\DotNet\\MethodFunctions\\4MethodFunctions.csproj",
+      "projectPath": "C:\\Nandhni\\GitRepo\\CSharphBasics\\DotNet\\MethodFunctions\\4MethodFunctions.csproj",
       "packagesPath": "C:\\Users\\nandh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nandh\\source\\repos\\DotNet\\MethodFunctions\\obj\\",
+      "outputPath": "C:\\Nandhni\\GitRepo\\CSharphBasics\\DotNet\\MethodFunctions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nandh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\nandh\\source\\repos\\DotNet\\stringManipulationMethodsOperations\\3stringManipulationMethodsOperations.csproj": {
-              "projectPath": "C:\\Users\\nandh\\source\\repos\\DotNet\\stringManipulationMethodsOperations\\3stringManipulationMethodsOperations.csproj"
+            "C:\\Nandhni\\GitRepo\\CSharphBasics\\DotNet\\stringManipulationMethodsOperations\\3stringManipulationMethodsOperations.csproj": {
+              "projectPath": "C:\\Nandhni\\GitRepo\\CSharphBasics\\DotNet\\stringManipulationMethodsOperations\\3stringManipulationMethodsOperations.csproj"
             }
           }
         }

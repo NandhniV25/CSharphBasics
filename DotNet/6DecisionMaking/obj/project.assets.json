@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nandh\\source\\repos\\DotNet\\6DecisionMaking\\6DecisionMaking.csproj",
+      "projectUniqueName": "C:\\Nandhni\\GitRepo\\CSharphBasics\\DotNet\\6DecisionMaking\\6DecisionMaking.csproj",
       "projectName": "6DecisionMaking",
-      "projectPath": "C:\\Users\\nandh\\source\\repos\\DotNet\\6DecisionMaking\\6DecisionMaking.csproj",
+      "projectPath": "C:\\Nandhni\\GitRepo\\CSharphBasics\\DotNet\\6DecisionMaking\\6DecisionMaking.csproj",
       "packagesPath": "C:\\Users\\nandh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nandh\\source\\repos\\DotNet\\6DecisionMaking\\obj\\",
+      "outputPath": "C:\\Nandhni\\GitRepo\\CSharphBasics\\DotNet\\6DecisionMaking\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nandh\\AppData\\Roaming\\NuGet\\NuGet.Config",

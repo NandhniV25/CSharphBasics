@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nandh\\source\\repos\\DotNet\\datatypes\\1datatypes.csproj": {}
+    "C:\\Nandhni\\GitRepo\\CSharphBasics\\DotNet\\datatypes\\1datatypes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nandh\\source\\repos\\DotNet\\datatypes\\1datatypes.csproj": {
+    "C:\\Nandhni\\GitRepo\\CSharphBasics\\DotNet\\datatypes\\1datatypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nandh\\source\\repos\\DotNet\\datatypes\\1datatypes.csproj",
+        "projectUniqueName": "C:\\Nandhni\\GitRepo\\CSharphBasics\\DotNet\\datatypes\\1datatypes.csproj",
         "projectName": "1datatypes",
-        "projectPath": "C:\\Users\\nandh\\source\\repos\\DotNet\\datatypes\\1datatypes.csproj",
+        "projectPath": "C:\\Nandhni\\GitRepo\\CSharphBasics\\DotNet\\datatypes\\1datatypes.csproj",
         "packagesPath": "C:\\Users\\nandh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nandh\\source\\repos\\DotNet\\datatypes\\obj\\",
+        "outputPath": "C:\\Nandhni\\GitRepo\\CSharphBasics\\DotNet\\datatypes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nandh\\AppData\\Roaming\\NuGet\\NuGet.Config",
