@@ -13,7 +13,7 @@ namespace _5MultilevelInheritance
         public string CompanyName { get; set; }
         public string Location { get; set; }
 
-        //construtor
+        //constructor
         public Company(int companyId, string companyName, string location)
         {
             CompanyId = companyId;

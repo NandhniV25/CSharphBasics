@@ -28,7 +28,7 @@
             //Bus busobj = new Bus(9);
             //busobj.BusDetails();
 
-            //Dynamic or Run time Polymorphism and multilevel inheritence
+            //Dynamic or Run time Polymorphism and multilevel inheritance
             //parent control their child but child can't control parent 
             Bus semiBusObj = new SemiBus(8);
             Bus semiSchoolBusObj = new SemiSchoolBus(5);
@@ -41,6 +41,11 @@
             SemiBus newsemibusObj = new SemiBus(10);
             newsemibusObj.BusDetails();
             newsemibusObj.BusCapacity();
+
+            //new
+            Bus nsemibusObj = new SemiBus(10);
+            nsemibusObj.BusDetails();
+            nsemibusObj.BusCapacity();
         }
     }
 }

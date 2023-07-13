@@ -11,6 +11,8 @@
 
             //ExternalEmployee
             exEmpObj.ExEmployeeCompanyDetails();
+
+            //we cannot access the method of sibling classS
         }
     }
 }

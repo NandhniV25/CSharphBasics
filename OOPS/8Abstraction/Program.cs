@@ -15,6 +15,8 @@
 
             //Company company = new Company(); // cannot create an object in the abstract class
 
+            Company emp3Obj = new Employee(102, "Venky", "Boss", "Dell", "Top 5 Company in world");
+
         }
     }
 }

@@ -34,6 +34,8 @@ namespace _5MultilevelInheritance
             Console.WriteLine($" EmployeeName = {EmployeeName} - CompanyName = {CompanyName} and Location = {Location}");
         }
 
+        //interface method implementation
+
         public void SalaryDetails()
         {
             Console.WriteLine($" EmployeeName = {EmployeeName} and Salary = {Salary}");
